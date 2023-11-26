@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList title="Death.SDX">
+    <Music.PitchName flags="" pitch="34" name="K1: Hit" color="FF33FF33"/>
+    <Music.PitchName flags="" pitch="36" name="K1: Open" color="FF33FF33"/>
+    <Music.PitchName flags="" pitch="35" name="K2: Open" color="FF33FF66"/>
+    <Music.PitchName flags="" pitch="38" name="SD: Center" color="FFFFD633"/>
+    <Music.PitchName flags="hide" pitch="39" name="SD: Closed Roll" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="33" name="SD: Edge" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="69" name="SD: Flam" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="125" name="SD: Off Center" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="71" name="SD: Rim" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="40" name="SD: Rimshot" color="55FFD633"/>
+    <Music.PitchName flags="hide" pitch="37" name="SD: Sidestick" color="55FFD633"/>
+    <Music.PitchName flags="" pitch="48" name="T1: Center" color="FF99FF99"/>
+    <Music.PitchName flags="hide" pitch="81" name="T1: Rim" color="5599FF99"/>
+    <Music.PitchName flags="hide" pitch="82" name="T1: Rimshot" color="5599FF99"/>
+    <Music.PitchName flags="" pitch="47" name="T2: Center" color="FF73FF73"/>
+    <Music.PitchName flags="hide" pitch="79" name="T2: Rim" color="5573FF73"/>
+    <Music.PitchName flags="hide" pitch="80" name="T2: Rimshot" color="5573FF73"/>
+    <Music.PitchName flags="" pitch="45" name="T3: Center" color="FF40FF40"/>
+    <Music.PitchName flags="hide" pitch="77" name="T3: Rim" color="5540FF40"/>
+    <Music.PitchName flags="hide" pitch="78" name="T3: Rimshot" color="5540FF40"/>
+    <Music.PitchName flags="" pitch="43" name="F1: Center" color="FFFF0000"/>
+    <Music.PitchName flags="hide" pitch="74" name="F1: Rim" color="55FF0000"/>
+    <Music.PitchName flags="hide" pitch="75" name="F1: Rimshot" color="55FF0000"/>
+    <Music.PitchName flags="" pitch="41" name="F2: Center" color="FFFF1A1A"/>
+    <Music.PitchName flags="hide" pitch="72" name="F2: Rim" color="55FF1A1A"/>
+    <Music.PitchName flags="hide" pitch="73" name="F2: Rimshot" color="55FF1A1A"/>
+    <Music.PitchName flags="hide" pitch="119" name="HH: Bell Closed" color="55FF99E6"/>
+    <Music.PitchName flags="hide" pitch="120" name="HH: Bell Open 0" color="55FF99E6"/>
+    <Music.PitchName flags="hide" pitch="121" name="HH: Bell Open 1" color="55FF99E6"/>
+    <Music.PitchName flags="hide" pitch="122" name="HH: Bell Open 2" color="55FF99E6"/>
+    <Music.PitchName flags="hide" pitch="123" name="HH: Bell Open 3" color="55FF99E6"/>
+    <Music.PitchName flags="hide" pitch="124" name="HH: Bell Open 4" color="55FF99E6"/>
+    <Music.PitchName flags="" pitch="22" name="HH: Closed Edge" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="61" name="HH: Closed Tip" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="64" name="HH: Open Edge 0" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="24" name="HH: Open Edge 1" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="25" name="HH: Open Edge 2" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="26" name="HH: Open Edge 3" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="60" name="HH: Open Edge 4" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="12" name="HH: Open Tip 0" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="13" name="HH: Open Tip 1" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="14" name="HH: Open Tip 2" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="15" name="HH: Open Tip 3" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="16" name="HH: Open Tip 4" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="17" name="HH: Open Tip 5" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="21" name="HH: Pedal Closed" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="23" name="HH: Pedal Open" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="65" name="HH: Sequenced Hits" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="62" name="HH: Tight Edge" color="FFFF99E6"/>
+    <Music.PitchName flags="" pitch="63" name="HH: Tight Tip" color="FFFF99E6"/>
+    <Music.PitchName flags="hide" pitch="28" name="C1: Bell Shank" color="55FF5050"/>
+    <Music.PitchName flags="hide" pitch="88" name="C1: Bell Tip" color="55FF5050"/>
+    <Music.PitchName flags="hide" pitch="27" name="C1: Bow Tip" color="55FF5050"/>
+    <Music.PitchName flags="" pitch="49" name="C1: Crash" color="FFFF5050"/>
+    <Music.PitchName flags="hide" pitch="50" name="C1: Muted" color="55FF5050"/>
+    <Music.PitchName flags="hide" pitch="97" name="C2: Bell Shank" color="55FF4D94"/>
+    <Music.PitchName flags="hide" pitch="100" name="C2: Bell Tip" color="55FF4D94"/>
+    <Music.PitchName flags="hide" pitch="96" name="C2: Bow Tip" color="55FF4D94"/>
+    <Music.PitchName flags="" pitch="98" name="C2: Crash" color="FFFF4D94"/>
+    <Music.PitchName flags="hide" pitch="95" name="C2: Muted" color="55FF4D94"/>
+    <Music.PitchName flags="hide" pitch="32" name="C3: Bell Shank" color="55FF4D88"/>
+    <Music.PitchName flags="hide" pitch="112" name="C3: Bell Tip" color="55FF4D88"/>
+    <Music.PitchName flags="hide" pitch="31" name="C3: Bow Tip" color="55FF4D88"/>
+    <Music.PitchName flags="" pitch="57" name="C3: Crash" color="FFFF4D88"/>
+    <Music.PitchName flags="hide" pitch="58" name="C3: Muted" color="55FF4D88"/>
+    <Music.PitchName flags="" pitch="53" name="R1: Bell Shank" color="FF47D147"/>
+    <Music.PitchName flags="" pitch="30" name="R1: Bell Tip" color="FF47D147"/>
+    <Music.PitchName flags="" pitch="116" name="R1: Bow Shank" color="FF47D147"/>
+    <Music.PitchName flags="" pitch="51" name="R1: Bow Tip 1" color="FF47D147"/>
+    <Music.PitchName flags="" pitch="29" name="R1: Bow Tip 2" color="FF47D147"/>
+    <Music.PitchName flags="" pitch="59" name="R1: Edge" color="FF47D147"/>
+    <Music.PitchName flags="hide" pitch="118" name="R1: Muted" color="5547D147"/>
+    <Music.PitchName flags="" pitch="84" name="X1: Crash" color="FFFF7F7F"/>
+    <Music.PitchName flags="hide" pitch="83" name="X1: Muted" color="55FF7F7F"/>
+    <Music.PitchName flags="" pitch="52" name="X2: Crash" color="FFFF9999"/>
+    <Music.PitchName flags="hide" pitch="54" name="X2: Muted" color="55FF9999"/>
+    <Music.PitchName flags="" pitch="93" name="Z1: Crash" color="FFFFB2B2"/>
+    <Music.PitchName flags="hide" pitch="94" name="Z1: Muted" color="55FFB2B2"/>
+    <Music.PitchName flags="" pitch="55" name="Z2: Crash" color="FFFFCCCC"/>
+    <Music.PitchName flags="hide" pitch="56" name="Z2: Muted" color="55FFCCCC"/>
+</Music.PitchNameList>
